@@ -1,0 +1,8 @@
+*, ::after, ::before {box-sizing: border-box;outline: none;border: none;}
+:root {
+    --primary-color: #007bff;
+    --secondary-color: #6c757d;
+    --background-color: #f8f9fa;
+    --text-color: #212529;
+    --font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
